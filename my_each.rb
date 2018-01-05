@@ -9,7 +9,6 @@ def my_each(words) # put argument(s) here
   #does not modify original collection
 end
 
-#no .each
-#no puts
+
 #block is run n times
 #passes single element into block at a time
